@@ -107,7 +107,7 @@ options:
 
 **Demo-6 [Generated C++ Program]**
 
-`python3 image_to_char_image_tool.py demo/original_pic_3.png --char_width=110 --on_char="#" --off_char=" " --cpp_code`
+`python3 image_to_char_image_tool.py demo/original_pic_3.png --on_char="#" --cpp_code --off_char=" " --char_width=110`
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/generated_cpp_code_to_print_pic_3.png "Showcase-1.2")
 
