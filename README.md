@@ -88,8 +88,6 @@ options:
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_3.png "Showcase-")
 
-![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_3_2.png "Showcase-")
-
 **Demo-4**
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic4.png "Showcase-")
@@ -107,10 +105,9 @@ options:
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_5.png "Showcase-")
 
-![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_5_2.png "Showcase-")
-
-
 **Demo-6 [Generated C++ Program]**
+
+`python3 image_to_char_image_tool.py demo/original_pic_3.png --char_width=110 --on_char="#" --off_char=" " --cpp_code`
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/generated_cpp_code_to_print_pic_3.png "Showcase-1.2")
 
