@@ -16,8 +16,6 @@ Additionally it can print a minial C++ code, which can be compiled and executed 
 
 usage: `<python script> image_file_path [options]`
 
-This utility displays a image(picture) using terminal characters. Additionally it can print a minial C++ code to print the desired image on stdout.
-
 ```
 options:
   --cpp_code:
