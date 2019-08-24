@@ -62,11 +62,59 @@ options:
 
 ## Demo
 
-`python3 image_to_char_image_tool.py image.png `
+#Demo-1
 
 ![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic_1.png "Showcase-1")
 
-![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_1_2.png "Showcase-1")
+`python3 image_to_char_image_tool.py image.png`
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_1_2.png "Showcase-1.1")
+
+`python3 image_to_char_image_tool.py image.png --char_width="100" -on_char=" " --off_char="#"`
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_1.png "Showcase-1.2")
+
+#Demo-2
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic_2.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_2.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_2_2.png "Showcase-")
+
+#Demo-3
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic_3.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_3.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_3_2.png "Showcase-")
+
+#Demo-4
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic4.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic_4_2.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_4.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_4_2.png "Showcase-")
+
+
+#Demo-5
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/original_pic_5.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_5.png "Showcase-")
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/showcase_5_2.png "Showcase-")
+
+
+#Demo-6 [Generated C++ Program]
+
+![alt text](https://raw.githubusercontent.com/mohitmv/char_image/master/demo/generated_cpp_code_to_print_pic_3.png "Showcase-1.2")
+
+
 
 
 -------------------------------------------------------------------------------------------------------
